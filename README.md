@@ -1,2 +1,2 @@
 # Travelpath-plan
-You can visit the project at : https://poojagl85.github.io/Travelpath-plan/
+<h2>Live Preview :</h2> https://saumya-mendiratta.github.io/Travel-Path/
