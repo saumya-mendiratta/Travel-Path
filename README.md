@@ -1,2 +1,2 @@
-# Travel-Path
- Uses different graph algorithms to solve and display the path between the start node and destination node
+# Travelpath-plan
+You can visit the project at : https://poojagl85.github.io/Travelpath-plan/
